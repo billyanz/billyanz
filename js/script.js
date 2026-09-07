@@ -5,8 +5,8 @@ const projectsData = [
         description: "Merancang sistem backend e-commerce yang skalabel. Fitur mencakup manajemen role (Admin/User), operasi CRUD dinamis, serta logika pemotongan stok inventaris otomatis saat transaksi.",
         tags: ["REST API", "MySQL", "Database Architecture", "JavaScript", "HTML5/CSS3"],
         image: "css/image/ecommerce-backend.png",
-        link: "",
-        github: "https://github.com/billyanz/ecommerce-backend-engine"
+        link: "https://github.com/billyanz/ecommerce-backend-engine",
+        github: ""
     },
 ];
 
