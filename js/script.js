@@ -3,19 +3,19 @@ const projectsData = [
     {
         title: "E-Commerce System (Backend API)",
         description: "Merancang sistem backend e-commerce yang skalabel. Fitur mencakup manajemen role (Admin/User), operasi CRUD dinamis, serta logika pemotongan stok inventaris otomatis saat transaksi.",
-        tags: ["Laravel", "MySQL", "API"],
-        image: "https://images.unsplash.com/photo-1555099962-4199c345e5dd?auto=format&fit=crop&w=600&q=80",
+        tags: ["REST API", "MySQL", "Database Architecture", "JavaScript", "HTML5/CSS3"],
+        image: "css/image/ecommerce-backend.png",
         link: "",
-        github: ""
+        github: "https://github.com/billyanz/ecommerce-backend-engine"
     },
 ];
 
 // 1B. Data Sertifikasi & Pengalaman (Kredensial)
 const certsData = [
     {
-        title: "Kompetensi Sistem Basis Data",
-        description: "Workshop dan Uji Kompetensi Berbasis Industri di bidang Sistem Basis Data. Memvalidasi fundamental perancangan, query, dan manajemen database relasional.",
-        tags: ["Database", "MySQL", "Workshop"],
+        title: "pemrograman SOLID",
+        description: "",
+        tags: ["SOLID", "OOP"],
         image: "css/image/dicoding-solid.png",
         link: "https://www.dicoding.com/certificates/81P2KQO0OXOY",
         github: "" 
